@@ -100,4 +100,4 @@ window.onload = function () {
 
 }
 
-alert('qwerty');
+alert('QWERTY');
