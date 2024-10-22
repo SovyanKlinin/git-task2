@@ -100,4 +100,4 @@ window.onload = function () {
 
 }
 
-alert('MYTASK');
+alert('qwerty');
